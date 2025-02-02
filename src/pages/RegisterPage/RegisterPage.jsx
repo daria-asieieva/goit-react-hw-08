@@ -1,6 +1,6 @@
 import React from "react";
 import { useDispatch } from "react-redux";
-import { register } from "../../redux/auth/authOperations";
+import { register } from "../../redux/auth/operations";
 import RegistrationForm from "../../components/RegistrationForm/RegistrationForm";
 import styles from "./RegisterPage.module.css";
 
