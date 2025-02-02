@@ -1,0 +1,17 @@
+.menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.user {
+    font-weight: bold;
+}
+
+.button {
+    padding: 5px 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
